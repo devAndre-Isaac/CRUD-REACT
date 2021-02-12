@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "André Isaac",
+      "cpf": "147.089.166-20",
+      "salario": "2500",
+      "dependentes": "7",
+      "id": 1
+    }
+  ]
+}
